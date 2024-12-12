@@ -9,13 +9,19 @@ int main() {
 
   printf("qual voce acha que e :");
   scanf("%d", &chute);
-  printf("o numero e %d ", chute);
+  printf("o numero que voce chutou e %d. ", chute);
 
   if (chute == numerosecreto) {
     printf("boa garoto, voce acertou!!\n");
     printf("jogue de novo, essa foi facil em?");
   } else {
-    printf("tente de novo meu chefe, tenho fe que na proxima vai!");
+
+      if (chute > numerosecreto) {
+          printf("Seu chute foi maior que o numero secreto em");
+      }
+      if (chute < numerosecreto) {
+          printf("Seu chute foi menor que o numero secreto em");
+      }
   }
-  
 }
+// parei na aula 02.02
