@@ -17,8 +17,5 @@ int main() {
   } else {
     printf("tente de novo meu chefe, tenho fe que na proxima vai!");
   }
-
-
-
-  // printf("a idade do lucas e %d \n", idade);
+  
 }
