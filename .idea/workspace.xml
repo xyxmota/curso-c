@@ -18,7 +18,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98865bd9-c5c8-44d7-a447-7029f97fd0df" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/codigoc/advinhacao/programa.c" beforeDir="false" afterPath="$PROJECT_DIR$/codigoc/advinhacao/programa.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programa.exe" beforeDir="false" afterPath="$PROJECT_DIR$/programa.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +98,10 @@
       <updated>1733957322877</updated>
       <workItem from="1733957324609" duration="474000" />
       <workItem from="1733957838734" duration="144000" />
-      <workItem from="1733958002769" duration="5679000" />
+      <workItem from="1733958002769" duration="5968000" />
+      <workItem from="1734049437876" duration="2764000" />
+      <workItem from="1734055976934" duration="743000" />
+      <workItem from="1734056750295" duration="1140000" />
     </task>
     <servers />
   </component>
